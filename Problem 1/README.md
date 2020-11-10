@@ -1,1 +1,1 @@
-Herein a the question and Solution to Problem 1.
+Herein are the question and Solution to Problem 1.
